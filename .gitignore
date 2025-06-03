@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and output files
+*.log
+alerts.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE/editor config
+.vscode/
+.idea/
+*.swp
+
+# MacOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# PDF Documentation
+*.pdf
+
+# Git-specific
+*.orig
