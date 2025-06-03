@@ -75,4 +75,3 @@ def detect_suspicious_logins(log_file, fail_threshold=5, time_window=60):
                 })
 
     return alerts
-
