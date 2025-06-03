@@ -1,4 +1,4 @@
-# Brute Force SSH Detector
+# 🛡️ Brute Force SSH Detector
 
 This is a simple tool built in Python that detects brute force SSH login attempts by monitoring log files. It's designed to alert you when:
 
@@ -15,10 +15,10 @@ This is a simple tool built in Python that detects brute force SSH login attempt
 ## 📁 Project Structure
 
 brute-force-ssh-detector/
-├── detector.py # Core logic for parsing and detection
-├── main.py # Entry point to run the tool
-├── test_auth.log # Sample log file for testing
-├── alerts.log # Output file with suspicious activity logs
+- detector.py # Core logic for parsing and detection
+- main.py # Entry point to run the tool
+- test_auth.log # Sample log file for testing
+- alerts.log # Output file with suspicious activity logs
 
 
 ## 🚀 How to Use It
