@@ -47,3 +47,4 @@ Failed IPs: {', '.join(alert['fail_ips'])}
         print(f"💾 Alerts saved to {ALERT_OUTPUT}")
     else:
         print("✅ No suspicious login patterns detected.")
+
